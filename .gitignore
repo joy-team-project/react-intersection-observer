@@ -1,9 +1,0 @@
-npm-debug.log*
-yarn-error.log
-/node_modules
-coverage
-/.docs
-.DS_Store
-/.vscode
-tsconfig.tsbuildinfo
-typings
